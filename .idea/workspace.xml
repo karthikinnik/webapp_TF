@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7099f94-5dc2-454f-b28a-4b80363a9858" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YkTY1EVjuORjta7qf3VSfCQtzH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../desktop/terraform" />
+  </component>
+  <component name="RunManager" selected="Terraform.init">
+    <configuration name="init" type="#org.intellij.plugins.hcl.terraform.run.TerraformConfigurationType" factoryName="Terraform" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="envs">
+        <map>
+          <entry key="path" value="C:\terraform" />
+        </map>
+      </option>
+      <option name="passParentEnvs" value="true" />
+      <option name="programParameters" value="init" />
+      <option name="workingDirectory" value="C:\Users\karthikeyan\Desktop\tb1" />
+      <option name="PROGRAM_PARAMETERS" value="init" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <envs>
+        <env name="path" value="C:\terraform" />
+      </envs>
+      <method v="2" />
+    </configuration>
+    <configuration name="plan" type="#org.intellij.plugins.hcl.terraform.run.TerraformConfigurationType" factoryName="Terraform Plan" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="passParentEnvs" value="true" />
+      <option name="programParameters" value="plan" />
+      <option name="workingDirectory" value="C:\Users\karthikeyan\Desktop\tb1" />
+      <option name="PROGRAM_PARAMETERS" value="plan" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Terraform.init" />
+      <item itemvalue="Terraform.plan" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7099f94-5dc2-454f-b28a-4b80363a9858" name="Default Changelist" comment="" />
+      <created>1583485635578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583485635578</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1583489473764">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1583489473764" />
+    <state x="602" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589198070125">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583499984417" />
+    <state x="602" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589198070125" />
+    <state x="602" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589196803381" />
+    <state x="845" y="258" key="EnvironmentVariablesDialog" timestamp="1589196710685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="417" y="126" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583499982261" />
+    <state x="845" y="258" key="EnvironmentVariablesDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589196710685" />
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1589527206763">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1589527206763" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1589739740709">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589739740709" />
+    <state x="540" y="269" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589436791386" />
+    <state x="2460" y="269" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1589520250833" />
+  </component>
+</project>
